@@ -11,8 +11,7 @@
     ],
     "duration": 4,
     "prerequisites": [
-        "programming-variables",
-        "programming-objects-types"
+        "programming-variables"
     ],
     "related": [
         "programming-objects-types",
