@@ -1,0 +1,23 @@
+{
+    "title": "Programming: Lists and Arrays",
+    "slug": "programming-lists",
+    "description": "Introduction to lists and arrays as ordered, indexed collections. Covers fundamental concepts like zero-based indexing, basic operations (create, access, add, remove, modify), comparison with other collection types, and why lists are essential in programming.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 4,
+    "prerequisites": [
+        "programming-variables",
+        "programming-objects-types"
+    ],
+    "related": [
+        "programming-objects-types",
+        "programming-dictionaries",
+        "programming-strings",
+        "python-lists-introduction"
+    ]
+}
